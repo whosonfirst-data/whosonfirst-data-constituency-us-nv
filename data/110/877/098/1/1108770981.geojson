@@ -9,7 +9,7 @@
     "geom:bbox":"-115.36857,36.12148,-115.288014,36.193917",
     "geom:latitude":36.157888,
     "geom:longitude":-115.328021,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":33175751.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 2",
     "uscensus:sldlst":"002",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487679,
     "wof:geomhash":"aaa79923359938ae6f3c86fcf4e4b5a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108770981,
     "wof:lastmodified":1481487679,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

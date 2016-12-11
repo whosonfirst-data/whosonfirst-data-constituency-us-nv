@@ -9,7 +9,7 @@
     "geom:bbox":"-115.27913,36.099885,-115.18035,36.13037",
     "geom:latitude":36.11599,
     "geom:longitude":-115.227894,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":24594685.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 42",
     "uscensus:sldlst":"042",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487689,
     "wof:geomhash":"ecd0cd5e9da14edc12c13b352d77e782",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771071,
     "wof:lastmodified":1481487689,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

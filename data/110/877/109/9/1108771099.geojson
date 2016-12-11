@@ -9,7 +9,7 @@
     "geom:bbox":"-119.84647,39.476858,-119.68821,39.62084",
     "geom:latitude":39.538295,
     "geom:longitude":-119.762261,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":100216661.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 13",
     "uscensus:sldust":"013",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487695,
     "wof:geomhash":"4d30232c99789fa63ad7a6c5bf83a113",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771099,
     "wof:lastmodified":1481487695,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

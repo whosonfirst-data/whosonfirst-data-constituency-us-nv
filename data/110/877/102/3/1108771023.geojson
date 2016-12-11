@@ -9,7 +9,7 @@
     "geom:bbox":"-115.15466,36.006217,-115.08221,36.06504",
     "geom:latitude":36.037045,
     "geom:longitude":-115.124971,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":22722393.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 21",
     "uscensus:sldlst":"021",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487683,
     "wof:geomhash":"58264d24218f6afe671686cdefbf0026",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771023,
     "wof:lastmodified":1481487683,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

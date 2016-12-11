@@ -9,7 +9,7 @@
     "geom:bbox":"-115.19025,36.0569,-115.06477,36.16799",
     "geom:latitude":36.116657,
     "geom:longitude":-115.13697,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":73930163.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 10",
     "uscensus:sldust":"010",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487693,
     "wof:geomhash":"e486eba6ce46a7c021386a7e66319f77",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771093,
     "wof:lastmodified":1481487693,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

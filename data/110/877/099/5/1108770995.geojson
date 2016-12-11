@@ -9,7 +9,7 @@
     "geom:bbox":"-115.27942,36.02554,-115.18046,36.107473",
     "geom:latitude":36.074356,
     "geom:longitude":-115.232229,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":55724113.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 8",
     "uscensus:sldlst":"008",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487680,
     "wof:geomhash":"b0492eead317ac39ee3931a9003181ba",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108770995,
     "wof:lastmodified":1481487680,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

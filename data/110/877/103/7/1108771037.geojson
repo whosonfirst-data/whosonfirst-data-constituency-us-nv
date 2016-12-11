@@ -9,7 +9,7 @@
     "geom:bbox":"-119.90145,39.505249,-119.74874,39.61755",
     "geom:latitude":39.571611,
     "geom:longitude":-119.840427,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":89459848.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 27",
     "uscensus:sldlst":"027",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487684,
     "wof:geomhash":"50ecaa03c5145edb9d5645309816c5f1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771037,
     "wof:lastmodified":1481487684,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

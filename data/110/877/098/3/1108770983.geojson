@@ -9,7 +9,7 @@
     "geom:bbox":"-115.2468,36.159166,-115.20546,36.233041",
     "geom:latitude":36.19779,
     "geom:longitude":-115.224041,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":20068045.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 3",
     "uscensus:sldlst":"003",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487679,
     "wof:geomhash":"6109480dfa000a30d7c29dc0a02fa701",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108770983,
     "wof:lastmodified":1481487679,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],

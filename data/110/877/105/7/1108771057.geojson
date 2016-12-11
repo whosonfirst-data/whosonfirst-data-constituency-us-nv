@@ -9,7 +9,7 @@
     "geom:bbox":"-117.22345,35.587866,-114.04999,39.16227",
     "geom:latitude":37.524977,
     "geom:longitude":-115.80561,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":68494999035.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"Assembly District 36",
     "uscensus:sldlst":"036",
     "uscensus:statefp":"32",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688531
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487686,
     "wof:geomhash":"f26b43fefa103bb156a987a31bf8ecf4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688531
+        }
+    ],
     "wof:id":1108771057,
     "wof:lastmodified":1481487686,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688531,
     "wof:repo":"whosonfirst-data-constituency-us-nv",
     "wof:superseded_by":[],
     "wof:supersedes":[],
